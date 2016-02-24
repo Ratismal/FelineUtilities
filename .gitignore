@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+*.psd
+resources/*
+
+forge-*-changelog.txt
+README.txt
+
+Gif to Sheet
+Gif to Sheet.*

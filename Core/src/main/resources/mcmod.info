@@ -1,0 +1,16 @@
+[
+{
+  "modid": "felineutilcore",
+  "name": "Feline Utilities: Core",
+  "description": "Adds stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ratismal"],
+  "credits": "Everyone at Hysteria Unleashed for moral support. Everyone at minecraftforge.net for helping. Special thanks to McJty for being awesome!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

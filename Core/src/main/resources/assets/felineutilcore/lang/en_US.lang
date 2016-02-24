@@ -1,0 +1,35 @@
+# Blocks
+tile.blockwemitter.name=Wireless Redstone Emitter
+tile.blockwreceiver.name=Wireless Redstone Receiver
+tile.blocktriggerproximity.name=Proximity Trigger
+tile.blockcreativejammer.name=Creative Jammer
+tile.blockchunkloader.name=Chunk Loader
+tile.blockglow.name=Light Source
+tile.blockbarrier.name=Barrier
+tile.testblock.name=Test Block
+
+#Items
+item.cattablet.name=Runic Tablet
+
+
+# ========================= #
+# --------- GUIDE --------- #
+# ========================= #
+
+# Guide Categories
+felineutilcore.category.basic=Basics Information
+felineutilcore.category.test1=Test 1
+felineutilcore.category.test2=Test 2
+felineutilcore.category.test3=Test 3
+felineutilcore.category.test4=Test 4
+felineutilcore.category.test5=Test 5
+felineutilcore.category.test6=Test 6
+felineutilcore.category.test7=Test 7
+felineutilcore.category.test8=Test 8
+felineutilcore.category.test9=Test 9
+
+# Guide Entries
+# - GUIDE
+felineutilities.entry.cattablet=Runic Tablet
+felineutilities.page.cattablet0=The Runic Tablet is an interface to everything Feline Utilities has to offer.
+felineutilities.page.cattablet1=Didn't you already make this?
